@@ -1,0 +1,1 @@
+{"description": "reject ratings below one star", "expected_error": true, "id": "reviews-0000", "input": [{"business_id": 1, "rating": 0}]}
