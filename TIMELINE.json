@@ -1,0 +1,2220 @@
+{
+  "synthetic": true,
+  "actualDevelopmentYear": 2026,
+  "modeledLearningYear": 2014,
+  "roadmapFit": "The roadmap's synthetic review-data aggregation and early backend data-processing exercises.",
+  "scenarioCommitCount": 367,
+  "scenarioCommits": [
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 0,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-01T19:03:37+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 1,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-03T09:02:33+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 2,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-05T08:36:39+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 3,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-05T16:38:31+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 4,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-07T19:21:08+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 5,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-10T10:01:55+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 6,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-11T15:17:13+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 7,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-11T19:06:39+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 8,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-12T17:45:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 9,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-15T16:01:13+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 10,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-16T12:21:12+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 11,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-16T13:54:18+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 12,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-16T16:07:54+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 13,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-16T17:47:35+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 14,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-16T19:40:48+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 15,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-20T08:44:34+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 16,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-21T08:30:01+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 17,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-21T21:17:57+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 18,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-22T22:06:29+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 19,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-26T11:01:03+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 20,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-28T11:00:35+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 21,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-29T19:48:34+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 22,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-30T09:56:12+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 23,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-30T13:53:24+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 24,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-30T17:35:58+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 25,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-30T21:56:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 26,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-31T09:38:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 27,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-31T13:57:46+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 28,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-01-31T21:25:26+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 29,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-05T08:01:11+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 30,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-05T19:16:54+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 31,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-08T10:25:45+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 32,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-08T17:43:36+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 33,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-09T09:58:03+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 34,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-09T18:29:19+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 35,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-09T21:39:16+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 36,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-13T08:49:22+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 37,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-13T12:15:16+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 38,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-13T13:46:37+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 39,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-13T15:30:11+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 40,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-13T18:48:22+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 41,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-14T18:59:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 42,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-18T18:23:21+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 43,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-24T10:31:00+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 44,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-24T14:40:15+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 45,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-24T18:49:55+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 46,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-27T22:38:21+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 47,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-02-28T21:02:43+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 48,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-01T12:02:31+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 49,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-01T16:03:46+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 50,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-01T18:25:12+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 51,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-01T22:26:21+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 52,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-02T08:27:12+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 53,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-02T10:24:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 54,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-02T18:37:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 55,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-02T21:24:43+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 56,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-03T14:46:30+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 57,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-03T17:50:28+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 58,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-04T08:46:43+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 59,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-08T08:22:15+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 60,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-08T17:35:45+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 61,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-08T18:57:15+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 62,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-08T22:35:01+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 63,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-12T08:42:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 64,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-12T14:02:49+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 65,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-12T16:42:24+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 66,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-12T18:57:37+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 67,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-13T08:32:56+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 68,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-13T09:43:03+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 69,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-13T15:47:08+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 70,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-13T19:08:58+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 71,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-13T21:52:30+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 72,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-14T15:20:45+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 73,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-14T16:58:37+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 74,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-14T20:24:06+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 75,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-16T17:00:31+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 76,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-17T17:15:05+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 77,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-18T17:40:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 78,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-19T10:33:28+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 79,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-20T11:03:50+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 80,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-20T19:47:54+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 81,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-24T09:00:22+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 82,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-24T14:05:07+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 83,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-24T17:08:07+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 84,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-25T14:24:20+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 85,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-25T18:12:28+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 86,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-26T08:18:49+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 87,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-26T09:25:14+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 88,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-26T12:16:30+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 89,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-26T18:40:55+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 90,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-26T22:02:25+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 91,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-29T13:28:57+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 92,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-31T11:27:35+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 93,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-03-31T20:15:49+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 94,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-02T15:19:58+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 95,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-04T14:27:54+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 96,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-07T22:42:25+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 97,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-08T15:19:23+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 98,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-08T22:03:09+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 99,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-09T22:13:29+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 100,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-10T17:46:20+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 101,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-11T11:05:34+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 102,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-11T15:23:09+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 103,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-11T19:54:47+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 104,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-11T22:37:13+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 105,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-13T22:36:40+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 106,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-14T17:03:57+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 107,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-16T11:58:54+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 108,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-17T08:18:01+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 109,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-19T14:44:50+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 110,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-21T18:10:04+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 111,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-22T14:37:40+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 112,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-23T10:42:36+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 113,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-23T16:28:39+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 114,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-23T19:57:32+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 115,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-25T11:14:42+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 116,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-25T15:08:06+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 117,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-25T22:02:34+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 118,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-27T20:30:39+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 119,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-29T10:17:12+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 120,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-30T08:22:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 121,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-04-30T17:25:01+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 122,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-03T11:16:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 123,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-09T11:04:13+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 124,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-09T21:02:00+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 125,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-16T12:01:07+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 126,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-16T16:24:20+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 127,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-17T12:38:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 128,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-18T09:10:01+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 129,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-18T10:46:20+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 130,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-18T11:41:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 131,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-18T16:56:13+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 132,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-18T20:18:49+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 133,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-18T22:09:40+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 134,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-19T09:17:26+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 135,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-19T13:09:29+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 136,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-19T16:16:58+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 137,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-19T18:08:30+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 138,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-19T22:20:05+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 139,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-24T19:00:56+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 140,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-25T15:51:03+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 141,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-29T08:17:00+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 142,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-29T10:48:05+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 143,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-29T14:49:54+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 144,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-29T16:23:43+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 145,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-29T18:38:19+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 146,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-05-31T12:33:11+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 147,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-01T08:27:19+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 148,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-01T13:11:54+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 149,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-01T15:42:45+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 150,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-01T18:51:54+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 151,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-01T22:24:23+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 152,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-02T17:12:09+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 153,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-05T17:05:57+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 154,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-05T22:53:55+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 155,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-07T08:28:07+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 156,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-07T10:54:27+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 157,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-07T11:51:38+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 158,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-07T12:32:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 159,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-07T14:18:15+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 160,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-07T15:02:43+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 161,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-07T18:06:07+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 162,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-07T20:04:44+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 163,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-07T20:44:25+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 164,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-07T22:31:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 165,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-09T08:52:35+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 166,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-09T20:25:09+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 167,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-11T12:53:01+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 168,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-11T20:36:19+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 169,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-13T11:23:44+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 170,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-15T16:35:03+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 171,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-16T09:58:32+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 172,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-21T22:56:21+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 173,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-24T09:38:05+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 174,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-24T22:41:02+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 175,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-27T19:58:49+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 176,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-06-30T14:59:55+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 177,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-01T17:22:16+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 178,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-02T11:19:36+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 179,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-03T09:08:44+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 180,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-03T15:05:49+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 181,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-04T17:40:41+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 182,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-05T09:31:16+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 183,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-05T10:17:02+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 184,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-05T11:10:26+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 185,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-05T13:11:50+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 186,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-05T15:17:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 187,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-05T16:30:47+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 188,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-05T20:31:44+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 189,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-05T21:14:00+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 190,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-06T16:30:17+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 191,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-07T09:17:22+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 192,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-07T14:25:45+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 193,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-08T14:24:31+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 194,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-09T10:22:14+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 195,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-09T15:06:13+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 196,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-09T17:30:05+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 197,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-11T09:33:55+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 198,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-12T16:03:04+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 199,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-15T19:16:14+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 200,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-16T11:32:17+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 201,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-18T08:54:01+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 202,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-18T14:18:06+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 203,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-18T17:26:50+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 204,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-19T09:59:25+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 205,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-19T15:48:02+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 206,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-19T16:44:40+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 207,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-19T17:31:59+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 208,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-19T21:10:53+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 209,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-24T08:03:32+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 210,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-25T11:07:48+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 211,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-25T13:49:40+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 212,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-25T17:46:31+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 213,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-25T19:42:23+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 214,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-25T20:42:19+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 215,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-26T17:16:13+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 216,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-27T15:01:21+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 217,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-30T09:35:40+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 218,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-30T11:28:18+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 219,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-30T13:59:50+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 220,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-30T16:44:29+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 221,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-30T19:04:10+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 222,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-07-30T20:43:04+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 223,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-01T19:27:49+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 224,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-05T17:19:26+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 225,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-05T22:01:23+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 226,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-09T09:31:38+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 227,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-09T12:24:02+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 228,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-12T08:07:19+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 229,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-12T14:16:53+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 230,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-12T16:49:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 231,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-12T20:47:36+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 232,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-14T10:35:37+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 233,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-15T17:50:00+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 234,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-16T15:50:00+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 235,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-16T18:18:39+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 236,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-17T08:20:49+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 237,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-18T20:12:53+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 238,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-19T12:37:23+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 239,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-19T16:51:08+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 240,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-21T08:11:37+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 241,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-22T09:21:02+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 242,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-22T10:55:46+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 243,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-22T14:50:54+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 244,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-22T18:22:58+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 245,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-22T20:58:56+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 246,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-24T08:56:39+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 247,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-27T14:13:24+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 248,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-28T14:40:49+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 249,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-29T10:49:16+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 250,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-29T14:56:56+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 251,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-29T17:41:38+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 252,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-30T08:21:27+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 253,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-30T11:13:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 254,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-30T16:06:20+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 255,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-30T21:01:06+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 256,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-08-31T18:01:29+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 257,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-03T09:31:14+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 258,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-03T10:10:59+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 259,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-03T13:51:17+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 260,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-03T18:17:56+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 261,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-06T11:19:34+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 262,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-08T13:47:05+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 263,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-08T19:25:54+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 264,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-10T08:04:12+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 265,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-10T15:57:10+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 266,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-10T19:58:29+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 267,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-10T22:27:56+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 268,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-13T16:30:23+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 269,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-13T20:43:32+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 270,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-14T22:14:56+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 271,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-16T10:02:36+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 272,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-16T15:07:22+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 273,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-16T16:49:25+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 274,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-20T21:59:29+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 275,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-22T22:11:50+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 276,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-23T09:47:33+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 277,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-23T15:01:53+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 278,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-24T12:30:33+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 279,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-24T19:08:18+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 280,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-24T19:49:13+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 281,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-25T11:48:40+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 282,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-26T08:49:12+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 283,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-27T14:00:55+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 284,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-29T11:20:23+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 285,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-09-29T18:40:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 286,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-03T09:04:29+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 287,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-03T13:37:19+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 288,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-03T20:24:10+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 289,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-08T14:24:15+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 290,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-08T18:21:13+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 291,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-10T15:26:36+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 292,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-11T09:24:37+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 293,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-11T20:26:07+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 294,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-16T08:16:33+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 295,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-16T18:10:11+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 296,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-18T09:43:05+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 297,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-20T11:27:28+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 298,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-23T21:34:12+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 299,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-24T15:01:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 300,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-25T16:54:26+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 301,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-25T21:23:09+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 302,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-26T11:10:32+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 303,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-26T13:49:00+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 304,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-26T17:04:45+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 305,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-27T13:04:15+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 306,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-28T14:00:40+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 307,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-10-31T16:28:24+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 308,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-05T16:43:56+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 309,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-05T20:25:05+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 310,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-06T12:49:31+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 311,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-10T12:36:34+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 312,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-10T16:28:03+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 313,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-10T20:30:02+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 314,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-13T21:12:19+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 315,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-15T08:33:26+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 316,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-15T10:07:12+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 317,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-15T14:16:13+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 318,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-15T16:02:53+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 319,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-15T17:09:46+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 320,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-15T22:31:46+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 321,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-17T10:30:00+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 322,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-17T20:26:49+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 323,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-20T21:32:35+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 324,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-21T14:04:50+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 325,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-21T18:31:36+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 326,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-21T21:41:00+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 327,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-23T17:51:44+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 328,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-25T13:43:47+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 329,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-25T20:24:00+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 330,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-11-27T20:18:10+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 331,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-02T09:27:36+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 332,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-02T11:32:29+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 333,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-02T13:19:17+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 334,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-02T17:19:41+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 335,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-02T21:22:56+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 336,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-03T11:43:33+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 337,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-05T11:19:16+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 338,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-05T16:05:57+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 339,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-06T11:21:58+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 340,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-07T09:28:41+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 341,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-07T11:23:53+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 342,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-07T13:49:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 343,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-07T14:15:09+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 344,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-07T16:25:26+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 345,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-07T19:06:52+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 346,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-07T20:46:07+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 347,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-07T21:49:55+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 348,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-07T22:43:43+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 349,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-08T16:42:48+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 350,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-10T09:50:35+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 351,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-10T12:03:44+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 352,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-10T14:37:36+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 353,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-10T21:04:16+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 354,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-12T19:18:11+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 355,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-14T19:26:51+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 356,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-19T10:10:33+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 357,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-20T14:48:48+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 358,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-23T09:22:07+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 359,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-23T11:40:37+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 360,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-23T18:14:06+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 361,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-25T12:22:39+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 362,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-27T08:20:43+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 363,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-27T19:24:10+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 364,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-28T09:16:47+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 365,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-31T14:52:50+00:00"
+    },
+    {
+      "repository": "review-rating-summary",
+      "fixtureIndex": 366,
+      "year": 2014,
+      "scenarioAuthorDate": "2014-12-31T21:17:14+00:00"
+    }
+  ],
+  "committerTimeline": {
+    "synthetic": true,
+    "modeledYears": [
+      2014
+    ],
+    "actualPresentationUpdateAt": "2026-11-05T13:19:47.798358+00:00",
+    "allAuthorHeadersPreserved": true,
+    "fixtureCommittersMatchIllustrativeAuthorDates": true
+  }
+}
