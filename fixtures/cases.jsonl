@@ -67,3 +67,4 @@
 {"description": "reject boolean business identifiers", "expected_error": true, "id": "reviews-0066", "input": [{"business_id": true, "rating": 3}]}
 {"description": "reject reviews without a rating", "expected_error": true, "id": "reviews-0067", "input": [{"business_id": 68}]}
 {"description": "summarize an empty review collection", "expected": [], "id": "reviews-0068", "input": []}
+{"description": "group mixed ratings and emit deterministic business order", "expected": [{"average": 3.0, "business_id": 70, "count": 2, "histogram": {"1": 1, "2": 0, "3": 0, "4": 0, "5": 1}}, {"average": 5.0, "business_id": 10070, "count": 1, "histogram": {"1": 0, "2": 0, "3": 0, "4": 0, "5": 1}}], "id": "reviews-0069", "input": [{"business_id": 10070, "rating": 5}, {"business_id": 70, "rating": 5}, {"business_id": 70, "rating": 1}]}
