@@ -138,3 +138,4 @@
 {"description": "reject ratings above five stars", "expected_error": true, "id": "reviews-0137", "input": [{"business_id": 138, "rating": 6}]}
 {"description": "reject boolean business identifiers", "expected_error": true, "id": "reviews-0138", "input": [{"business_id": true, "rating": 3}]}
 {"description": "reject reviews without a rating", "expected_error": true, "id": "reviews-0139", "input": [{"business_id": 140}]}
+{"description": "summarize an empty review collection", "expected": [], "id": "reviews-0140", "input": []}
