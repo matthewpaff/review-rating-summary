@@ -160,3 +160,4 @@
 {"description": "group mixed ratings and emit deterministic business order", "expected": [{"average": 3.0, "business_id": 160, "count": 2, "histogram": {"1": 1, "2": 0, "3": 0, "4": 0, "5": 1}}, {"average": 5.0, "business_id": 10160, "count": 1, "histogram": {"1": 0, "2": 0, "3": 0, "4": 0, "5": 1}}], "id": "reviews-0159", "input": [{"business_id": 10160, "rating": 5}, {"business_id": 160, "rating": 5}, {"business_id": 160, "rating": 1}]}
 {"description": "reject ratings below one star", "expected_error": true, "id": "reviews-0160", "input": [{"business_id": 161, "rating": 0}]}
 {"description": "reject ratings above five stars", "expected_error": true, "id": "reviews-0161", "input": [{"business_id": 162, "rating": 6}]}
+{"description": "reject boolean business identifiers", "expected_error": true, "id": "reviews-0162", "input": [{"business_id": true, "rating": 3}]}
