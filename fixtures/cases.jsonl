@@ -337,3 +337,4 @@
 {"description": "reject ratings below one star", "expected_error": true, "id": "reviews-0336", "input": [{"business_id": 337, "rating": 0}]}
 {"description": "reject ratings above five stars", "expected_error": true, "id": "reviews-0337", "input": [{"business_id": 338, "rating": 6}]}
 {"description": "reject boolean business identifiers", "expected_error": true, "id": "reviews-0338", "input": [{"business_id": true, "rating": 3}]}
+{"description": "reject reviews without a rating", "expected_error": true, "id": "reviews-0339", "input": [{"business_id": 340}]}
